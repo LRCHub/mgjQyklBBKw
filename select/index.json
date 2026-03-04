@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夏色プレゼント",
+  "base_artist": "あおい(CV:井口裕香)、ひなた(CV:阿澄佳奈)、かえで(CV:日笠陽子)、ここな(CV:小倉唯)",
+  "createdAt": "2026-03-04T02:31:11.992409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏色プレゼント",
+      "artist": "あおい(井口裕香)・ひなた(阿澄佳奈)・かえで(日笠陽子)・ここな(小倉唯)",
+      "has_synced": false,
+      "path": "select/01_夏色プレゼント_あおい(井口裕香)・ひなた(阿澄佳奈)・かえで(日笠陽子)・ここな(小倉唯).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏色プレゼント(あおいバージョン)",
+      "artist": "あおい(CV:井口裕香)",
+      "has_synced": true,
+      "path": "select/02_夏色プレゼント(あおいバージョン)_あおい(CV_井口裕香).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏色プレゼント(かえでバージョン)",
+      "artist": "かえで(CV:日笠陽子)",
+      "has_synced": true,
+      "path": "select/03_夏色プレゼント(かえでバージョン)_かえで(CV_日笠陽子).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏色プレゼント",
+      "artist": "あおい(CV.井口裕香)、ひなた(CV.阿澄佳奈)、かえで(CV.日笠陽子)、ここな(CV.小倉唯)",
+      "has_synced": true,
+      "path": "select/04_夏色プレゼント_あおい(CV.井口裕香)、ひなた(CV.阿澄佳奈)、かえで(CV.日笠陽子)、ここな(CV.小倉唯).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏色プレゼント",
+      "artist": "あおい (井口裕香), ひなた (阿澄佳奈), かえで (日笠陽子), ここな (小倉唯)",
+      "has_synced": false,
+      "path": "select/pl_01_夏色プレゼント_あおい_(井口裕香),_ひなた_(阿澄佳奈),_かえで_(日笠陽子),_ここな_(小倉唯).txt"
+    }
+  ]
+}
